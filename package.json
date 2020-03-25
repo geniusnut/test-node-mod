@@ -1,0 +1,22 @@
+{
+  "name": "libtest",
+  "version": "1.0.0",
+  "description": "A test library for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geniusnut/test-node-mod.git"
+  },
+  "keywords": [
+    "test-node"
+  ],
+  "author": "yw07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geniusnut/test-node-mod/issues"
+  },
+  "homepage": "https://github.com/geniusnut/test-node-mod#readme"
+}
